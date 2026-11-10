@@ -3,7 +3,7 @@
 <img src="kp13-avatar.png" width="140" alt="KP13"/>
 
 # ✦ KairoPhos ✦
-*καιρός + φῶς — a small light, at the right time*
+*καιρός + φῶς -> A small light, at the right time*
 
 `[ status: tuning an ocarina 🎶 ]` `[ mood: cozy ]` `[ instance: friends+ ]`
 
@@ -12,10 +12,7 @@
 ---
 
 ### ⟡ about.exe
-hi! (｡•̀ᴗ-)✧ I make **kan!**, a free rhythm game you play with a *real*
-instrument. the goal is simple: practice should feel like play, and what
-you learn should go home with you — to your friends, your family, your
-community's songs.
+hi! (｡•̀ᴗ-)✧ I make **kan!**, a free rhythm game you play with a *real* instrument. the goal is simple: practice should feel like play, and what you learn should go home with you, to your friends, your family, your community's songs.
 
 ### ⟡ things I like
 - 🎶 melodies older than all of us
@@ -31,7 +28,7 @@ community's songs.
 5. lost? there's always a seat by the fire. pull up. 🔥
 
 ### ⟡ currently building
-- [kan!](https://github.com/KairoPhos13/kan-rhythm) — play real instruments, calmly
+- [kan!](https://github.com/KairoPhos13/kan-rhythm) Play real instruments, at your pace.
 - issues tagged `good first issue` are open doors, come in ✦
 
 <div align="center">
